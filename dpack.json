@@ -2,5 +2,5 @@
   "deps": {},
   "name": "dictu-example-package",
   "version": "0.0.1",
-  "build-cmd": "echo \\⅛⅛"Hello from dpack\\" > success.txt"
+  "build-cmd": "echo \"Hello from dpack\" > success.txt"
 }
